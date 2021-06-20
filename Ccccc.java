@@ -16,7 +16,7 @@ public class Ccccc {
             for (int j = 1; j <= 17 - 2 * i; j++) {
                 System.out.print("*");
             }
-            System.out.println();
+            System.out.println();奥术大师大所大所大所
         }
 
         for (int i=1;i<=5;i++){
